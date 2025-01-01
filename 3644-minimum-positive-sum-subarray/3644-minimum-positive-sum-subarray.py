@@ -2,8 +2,10 @@ class Solution:
     def minimumSumSubarray(self, nums, l, r):
         minSum = float('inf')
         for i in range(l, r + 1):
+            currSum = 0
 
-            currSum = sum(nums[:i])
+            for j in range(i):
+                currSum += nums[j]
             if currSum > 0:
                 minSum = min(minSum, currSum)
 
