@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Karl-Fernandes/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karl-Fernandes/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Karl-Fernandes/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karl-Fernandes/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karl-Fernandes/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Trie
 |  |
 | ------- |
