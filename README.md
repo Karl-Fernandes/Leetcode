@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karl-Fernandes/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3463-alternating-groups-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karl-Fernandes/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karl-Fernandes/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Divide and Conquer
 |  |
 | ------- |
