@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karl-Fernandes/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/Karl-Fernandes/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Karl-Fernandes/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karl-Fernandes/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Divide and Conquer
