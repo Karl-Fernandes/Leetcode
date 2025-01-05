@@ -4,6 +4,7 @@ class Solution:
         res = 0
         l, r = 0, 0
         n = len(s)
+        maxf = 0
 
         for r in range(n):
             if s[r] in count:
@@ -12,8 +13,8 @@ class Solution:
                 count[s[r]] = 1
         
             window_size = r - l + 1
-            highest_freq = max(count.values())
-            if window_size - highest_freq <= k:
+            maxf = max(maxf, count[s[r]])
+            if window_size - maxf <= k:
                 res = max(res, window_size)
             else:
                 count[s[l]] -= 1
