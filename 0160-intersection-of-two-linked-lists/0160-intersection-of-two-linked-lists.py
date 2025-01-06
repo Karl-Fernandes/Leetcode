@@ -17,7 +17,6 @@ class Solution:
         while pointer2:
             if pointer2 in nodes:
                 return pointer2
-            nodes.add(pointer2)
             pointer2 = pointer2.next
 
         return None
