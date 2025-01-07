@@ -1,18 +1,13 @@
 class Solution:
     def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        array = []
-        new_list = ListNode(0)
-        current = new_list
-
-        while head:
-            array.append(head.val)
-            head = head.next
+        l = r = head
+        for _ in range(k-1):
+            l = l.next
         
-        n = len(array)
-        array[k - 1], array[n - k] = array[n - k], array[k - 1]
+        tail = l
+        while tail.next:
+            tail, r = tail.next, r.next
         
-        for val in array:
-            current.next = ListNode(val)
-            current = current.next
+        l.val, r.val = r.val, l.val
+        return head
         
-        return new_list.next
