@@ -9,16 +9,11 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: int
         """
-        binary = ""
+
         decimal = 0
         while head:
-            binary += str(head.val)
+            decimal = (decimal << 1) + head.val
             head = head.next
-        
-        for bit in binary:
-            decimal = (decimal << 1)
-            decimal |= int(bit)
-        
         return decimal
 
         
