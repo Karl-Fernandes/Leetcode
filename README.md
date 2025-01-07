@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Karl-Fernandes/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 ## Two Pointers
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Karl-Fernandes/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
