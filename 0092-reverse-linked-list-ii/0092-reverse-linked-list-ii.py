@@ -23,7 +23,7 @@ class Solution:
             tail.next = prev.next
             prev.next = tail
             tail = current.next
-        
+            
         return dummy.next
 
 
