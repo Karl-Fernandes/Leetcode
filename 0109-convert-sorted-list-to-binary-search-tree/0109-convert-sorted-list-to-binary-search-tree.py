@@ -4,6 +4,7 @@ class Solution:
             return None
         if not head.next:
             return TreeNode(head.val)
+            
         middle = self.getMiddle(head)
         root = TreeNode(middle.val)
         root.right = self.sortedListToBST(middle.next)
@@ -15,10 +16,13 @@ class Solution:
         fast = head
         slow = head
         prev = None
+
         while fast and fast.next:
             fast = fast.next.next
             prev = slow
             slow = slow.next
+
         if prev:
             prev.next = None
+            
         return slow
