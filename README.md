@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1894-merge-strings-alternately](https://github.com/Karl-Fernandes/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Karl-Fernandes/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Karl-Fernandes/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1894-merge-strings-alternately](https://github.com/Karl-Fernandes/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
