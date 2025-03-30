@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Karl-Fernandes/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/Karl-Fernandes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Karl-Fernandes/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Karl-Fernandes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karl-Fernandes/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karl-Fernandes/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sorting
