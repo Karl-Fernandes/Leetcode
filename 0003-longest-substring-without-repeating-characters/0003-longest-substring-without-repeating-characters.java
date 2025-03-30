@@ -6,7 +6,7 @@ class Solution {
         
         if (s.length() == 0) return 0;
         
-        List<Character> visited = new ArrayList<>();
+        HashSet<Character> visited = new HashSet<Character>();
 
         while (right < s.length()) {
             if (!visited.contains(s.charAt(right))) {
