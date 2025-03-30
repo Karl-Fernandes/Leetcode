@@ -9,8 +9,9 @@ class Solution {
         HashSet<Character> visited = new HashSet<Character>();
 
         while (right < s.length()) {
-            if (!visited.contains(s.charAt(right))) {
-                visited.add(s.charAt(right));
+            char currentChar = s.charAt(right);
+            if (!visited.contains(currentChar)) {
+                visited.add(currentChar);
                 right++;
                 res = Math.max(res, right - left);
             } else {
