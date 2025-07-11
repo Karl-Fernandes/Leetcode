@@ -1,16 +1,22 @@
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        n = len(arr)
-        min_total = float('inf')
-        start_index = 0
+        total = 0
+        res = []
 
-        for i in range(n - k + 1):
-            total = 0
-            for j in range(i, i + k):
-                total += abs(arr[j] - x)
+        for num in range(k):
+            total += abs(arr[num] - x)
+            res.append(arr[num])
 
-            if total < min_total:
-                min_total = total
-                start_index = i
+        for r in range(k, len(arr)):
+            l = r - k
+            new_contribution = abs(arr[r] - x) - abs(arr[l] - x)
+            total += new_contribution
+            if new_contribution < 0: 
+                res.remove(arr[l])
+                res.append(arr[r])
+        
+        return res
+            
 
-        return arr[start_index:start_index + k]
+
+        
