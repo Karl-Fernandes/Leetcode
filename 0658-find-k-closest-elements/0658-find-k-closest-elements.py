@@ -3,6 +3,9 @@ class Solution:
         total = 0
         res = []
 
+        if len(arr) == k:
+            return arr
+            
         for num in range(k):
             total += abs(arr[num] - x)
             res.append(arr[num])
