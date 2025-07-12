@@ -17,6 +17,8 @@ class Solution:
             oldToCopy[current] = copy
             current = current.next
         
+        
+        
         current = head
         while current:
             copy = oldToCopy[current]
@@ -25,3 +27,4 @@ class Solution:
             current = current.next
         
         return oldToCopy[head]
+        
