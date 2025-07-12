@@ -8,10 +8,11 @@ class Solution:
         if not head or not head.next:
             return None
 
+    
         dummy = ListNode()
         dummy.next = head
         pointer1 = dummy
-        pointer2 = dummy 
+        pointer2 = dummy
 
         for i in range(n):
             pointer2 = pointer2.next
@@ -21,7 +22,6 @@ class Solution:
             pointer2 = pointer2.next
         
         pointer1.next = pointer1.next.next
-
 
         return dummy.next
         
