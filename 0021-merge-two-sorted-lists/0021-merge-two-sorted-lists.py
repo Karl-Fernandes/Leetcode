@@ -21,12 +21,11 @@ class Solution:
         while list1 and list2:
             if list1.val >= list2.val:
                 curr.next = ListNode(list2.val)
-                curr = curr.next
                 list2 = list2.next
             else:
                 curr.next = ListNode(list1.val)
-                curr = curr.next
                 list1 = list1.next
+            curr = curr.next
       
         
         while list1:
