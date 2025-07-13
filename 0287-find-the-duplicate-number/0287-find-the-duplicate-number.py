@@ -1,6 +1,11 @@
-class Solution:
-    def findDuplicate(self, nums: List[int]) -> int:
-        slow, fast = 0, 0
+class Solution(object):
+    def findDuplicate(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        slow = 0
+        fast = 0
         while True:
             slow = nums[slow]
             fast = nums[nums[fast]]
@@ -8,8 +13,15 @@ class Solution:
                 break
 
         slow2 = 0
-        while True:
+        while slow != slow2:
             slow = nums[slow]
             slow2 = nums[slow2]
-            if slow == slow2:
-                return slow     
+            
+        return slow
+            
+    
+    
+
+        
+
+        
