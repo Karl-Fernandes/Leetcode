@@ -4,21 +4,27 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
-        
-        leftHeight = self.maxHeight(root.left)
-        rightHeight = self.maxHeight(root.right)
-        diameter = leftHeight + rightHeight 
-        sub = max(self.diameterOfBinaryTree(root.left),
-                  self.diameterOfBinaryTree(root.right))
-        return max(diameter, sub)
+        self.maxDiameter = 0  # shared state across all calls
 
+        def dfs(node):
+            if not node:
+                return 0  # base case: height is 0
+            
+            left = dfs(node.left)     # height of left subtree
+            right = dfs(node.right)   # height of right subtree
 
-    def maxHeight(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
+            # diameter at this node is left + right
+            self.maxDiameter = max(self.maxDiameter, left + right)
 
-        return 1 + max(self.maxHeight(root.left), self.maxHeight(root.right))
+            return max(left, right) + 1  # height of current subtree
+
+        dfs(root)
+        return self.maxDiameter
