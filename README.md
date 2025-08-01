@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Karl-Fernandes/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -429,5 +430,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Karl-Fernandes/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
