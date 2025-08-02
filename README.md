@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Karl-Fernandes/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Karl-Fernandes/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Karl-Fernandes/Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Karl-Fernandes/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0090-subsets-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Karl-Fernandes/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Karl-Fernandes/Leetcode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/Karl-Fernandes/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Karl-Fernandes/Leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Karl-Fernandes/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Karl-Fernandes/Leetcode/tree/master/0079-word-search) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -438,5 +442,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Karl-Fernandes/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Karl-Fernandes/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Karl-Fernandes/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
