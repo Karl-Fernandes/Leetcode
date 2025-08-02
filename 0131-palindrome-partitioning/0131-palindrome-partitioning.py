@@ -14,11 +14,11 @@ class Solution:
                     dfs(j + 1)
                     curr.pop()
 
-        def isPalindrome(s, i, j):
-            for k in range(j - i):
-                if s[i + k] != s[j - k]:
+        def isPalindrome(s, l, r):
+            while l < r:
+                if s[l] != s[r]:
                     return False
-            
+                l, r = l + 1, r - 1
             return True
         
         dfs(0)
