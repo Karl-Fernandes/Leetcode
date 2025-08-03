@@ -11,4 +11,4 @@ class Solution:
             while len(heap) > k:
                 heapq.heappop(heap)
             
-        return heap[0]
+        return heapq.heappop(heap)
