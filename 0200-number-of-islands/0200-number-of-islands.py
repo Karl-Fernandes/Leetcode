@@ -1,7 +1,3 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
-from typing import List, Optional
-
-
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         if not grid:
