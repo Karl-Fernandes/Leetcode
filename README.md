@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Karl-Fernandes/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Karl-Fernandes/Leetcode/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Karl-Fernandes/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Karl-Fernandes/Leetcode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Karl-Fernandes/Leetcode/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 ## Tree
