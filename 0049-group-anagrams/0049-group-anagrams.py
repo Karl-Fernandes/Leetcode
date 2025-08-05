@@ -1,13 +1,25 @@
-from collections import defaultdict
-from typing import List
-
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        groups = defaultdict(list)
-        
+        visited = defaultdict(list)
+
+
+
         for word in strs:
-            # Sort characters in the word to create a key
-            key = ''.join(sorted(word))
-            groups[key].append(word)
+            current = [0] * 26
+            
+            for char in word:
+                current[ord(char) - ord('a')] += 1
+
+            key = tuple(current)
+            visited[key].append(word)
         
-        return list(groups.values())
+        return list(visited.values())
+            
+
+
+            
+            
+
+
+
+                
