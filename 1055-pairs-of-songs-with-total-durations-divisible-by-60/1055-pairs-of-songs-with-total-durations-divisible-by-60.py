@@ -1,12 +1,12 @@
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:
-        remainders = [0] * 60
-        count = 0
-        
-        for t in time:
-            r = t % 60
-            complement = (60 - r) % 60
-            count += remainders[complement]
-            remainders[r] += 1
-        
-        return count
+        total = 0
+        count = defaultdict(int)
+
+        for num in time:
+            remainder = num % 60 #30
+            complement = (60-remainder)%60 #30
+            total += count[complement]
+            count[remainder] += 1
+
+        return total
