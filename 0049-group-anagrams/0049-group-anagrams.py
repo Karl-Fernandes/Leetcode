@@ -1,24 +1,13 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        visited = defaultdict(list)
-
+        groups = defaultdict(list)
 
 
         for word in strs:
-            current = [0] * 26
+            key = "".join(sorted(word))
+            groups[key].append(word)
             
-            for char in word:
-                current[ord(char) - ord('a')] += 1
-
-            key = tuple(current)
-            visited[key].append(word)
-        
-        return list(visited.values())
-            
-
-
-            
-            
+        return list(groups.values())
 
 
 
