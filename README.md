@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Karl-Fernandes/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Karl-Fernandes/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Karl-Fernandes/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Karl-Fernandes/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Karl-Fernandes/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Karl-Fernandes/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Karl-Fernandes/Leetcode/tree/master/0125-valid-palindrome) |
