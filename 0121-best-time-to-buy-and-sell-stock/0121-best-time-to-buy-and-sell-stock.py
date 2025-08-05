@@ -3,12 +3,16 @@ class Solution:
         minimum = prices[0]
         res = 0
 
+        if not prices:
+            return 0
+
         for price in prices:
             if price < minimum:
                 minimum = price
             else:
                 profit = price - minimum
-                res = max(profit, res)
+                if profit > res:
+                    res = profit
         
         return res
             
