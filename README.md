@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Karl-Fernandes/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Karl-Fernandes/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/Karl-Fernandes/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0496-next-greater-element-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0344-reverse-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Karl-Fernandes/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/Karl-Fernandes/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Karl-Fernandes/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Karl-Fernandes/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -533,12 +537,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Karl-Fernandes/Leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Karl-Fernandes/Leetcode/tree/master/1325-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [1325-path-with-maximum-probability](https://github.com/Karl-Fernandes/Leetcode/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
