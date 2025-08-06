@@ -1,7 +1,7 @@
 class Solution:
     def maximumValueSum(self, nums: List[int], k: int, edges: List[List[int]]) -> int:
         xorCnt = res = 0
-        minDiff = 10000000
+        minDiff = 1 << 20
 
         for num in nums:
             xorNum = num ^ k
