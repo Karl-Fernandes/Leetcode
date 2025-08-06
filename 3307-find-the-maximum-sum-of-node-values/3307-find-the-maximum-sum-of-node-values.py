@@ -1,15 +1,15 @@
 class Solution:
     def maximumValueSum(self, nums: List[int], k: int, edges: List[List[int]]) -> int:
-        delta = [(num ^ k) - num for num in nums]
-        delta.sort(reverse=True)
-        res = sum(nums)
+        xorCnt = res = 0
+        minDiff = 1 << 30
 
-        for i in range(0, len(nums), 2):
-            if i == len(nums) - 1:
-                break
-            path_delta = delta[i] + delta[i + 1]
-            if path_delta <= 0:
-                break
-            res += path_delta
+        for num in nums:
+            xorNum = num ^ k
+            if xorNum > num:
+                res += xorNum
+                xorCnt ^= 1
+            else:
+                res += num
+            minDiff = min(minDiff, abs(xorNum - num))
 
-        return res
+        return res - xorCnt * minDiff
