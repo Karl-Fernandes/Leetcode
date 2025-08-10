@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Karl-Fernandes/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1894-merge-strings-alternately](https://github.com/Karl-Fernandes/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Karl-Fernandes/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Karl-Fernandes/Leetcode/tree/master/0322-coin-change) |
 | [0413-arithmetic-slices](https://github.com/Karl-Fernandes/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Karl-Fernandes/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1013-fibonacci-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Karl-Fernandes/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
