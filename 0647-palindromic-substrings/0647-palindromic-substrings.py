@@ -10,12 +10,11 @@ class Solution:
                 count += 1
             return count
 
-        total_count = 0
+        total = 0
 
         for i in range(len(s)):
-            odd = expand_around_center(s, i, i, 0)
-            even = expand_around_center(s, i, i + 1, 0)
+            total += expand_around_center(s, i, i, 0)
+            total += expand_around_center(s, i, i + 1, 0)
 
-            total_count += odd + even
            
-        return total_count
+        return total
