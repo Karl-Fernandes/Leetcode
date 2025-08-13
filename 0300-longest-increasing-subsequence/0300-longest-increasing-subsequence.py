@@ -1,11 +1,19 @@
+from bisect import bisect_left
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
-        LIS = [1] * len(nums)
+        dp = []
+        dp.append(nums[0])
 
-        for i in range(len(nums) - 1, -1, -1):
-            for j in range(i + 1, len(nums)):
-                if nums[i] < nums[j]:
-                    LIS[i] = max(LIS[i], 1 + LIS[j])
+        LIS = 1
+
+        for i in range(1, len(nums)):
+            if dp[-1] < nums[i]:
+                dp.append(nums[i])
+                LIS += 1
+                continue
             
-        return max(LIS)
-        
+            idx = bisect_left(dp, nums[i])
+            dp[idx] = nums[i]
+        return LIS
+
+            
