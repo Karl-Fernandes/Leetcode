@@ -1,17 +1,17 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        dp = [False] * (len(s) +  1)
-        dp[len(s)] = True
-
-        for i in range(len(s) - 1, -1, -1):
-            for w in wordDict:
-                if (i + len(w)) <= len(s) and s[i: i + len(w)] == w:
-                    dp[i] = dp[i + len(w)]
-                if dp[i]:
+        word_set = set(wordDict)
+        max_len = max(len(word) for word in wordDict)
+        
+        n = len(s)
+        dp = [False] * (n + 1)
+        dp[n] = True
+        
+        for i in range(n - 1, -1, -1):
+            # Check from shortest to longest for better average case
+            for length in range(1, min(max_len + 1, n - i + 1)):
+                if s[i:i + length] in word_set and dp[i + length]:
+                    dp[i] = True
                     break
         
         return dp[0]
-            
-        
-
-
