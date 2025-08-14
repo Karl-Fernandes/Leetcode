@@ -12,7 +12,8 @@ class Solution:
             for t in dp:
                 if (t + nums[i]) == target:
                     return True
-                nextDp.add(t + nums[i])
+                if (t + nums[i]) < target:
+                    nextDp.add(t + nums[i])
                 nextDp.add(t)
             dp = nextDp
         
