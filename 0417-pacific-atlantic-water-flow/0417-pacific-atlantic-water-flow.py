@@ -27,12 +27,7 @@ class Solution:
             dfs(r, COLS - 1, atl, heights[r][COLS - 1])
             
 
-        res = []
-        for r in range(ROWS):
-            for c in range(COLS):
-                if (r, c) in pac and (r, c) in atl:
-                    res.append([r, c])
-        return res
+        return list(pac & atl)
 
             
 
