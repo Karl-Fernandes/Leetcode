@@ -1,18 +1,22 @@
+from collections import defaultdict
+from typing import List
+
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         # Map each course to its prerequisites
-        preMap = {i: [] for i in range(numCourses)}
+        preMap = defaultdict(list)
         for crs, pre in prerequisites:
             preMap[crs].append(pre)
 
-        # Store all courses along the current DFS path
-        visiting = set()
+        visiting = set()   # nodes in current DFS path
+        visited = set()    # nodes fully processed
 
         def dfs(crs):
+            # Cycle detected
             if crs in visiting:
-                # Cycle detected
                 return False
-            if preMap[crs] == []:
+            # Already processed this course, no cycle found here
+            if crs in visited:
                 return True
 
             visiting.add(crs)
@@ -20,10 +24,12 @@ class Solution:
                 if not dfs(pre):
                     return False
             visiting.remove(crs)
-            preMap[crs] = []
+            visited.add(crs)
+
             return True
 
         for c in range(numCourses):
             if not dfs(c):
                 return False
+
         return True
