@@ -1,50 +1,35 @@
-class DSU:
-    def __init__(self, n):
-        self.Parent = list(range(n + 1))
-        self.Size = [1] * (n + 1)
-
-    def find(self, node):
-        if self.Parent[node] != node:
-            self.Parent[node] = self.find(self.Parent[node])
-        return self.Parent[node]
-
-    def union(self, u, v):
-        pu = self.find(u)
-        pv = self.find(v)
-        if pu == pv:
-            return False
-        if self.Size[pu] >= self.Size[pv]:
-            self.Size[pu] += self.Size[pv]
-            self.Parent[pv] = pu
-        else:
-            self.Size[pv] += self.Size[pu]
-            self.Parent[pu] = pv
-        return True
-
-    def connected(self, u, v):
-        return self.find(u) == self.find(v)
-
 class Solution:
     def solve(self, board: List[List[str]]) -> None:
         ROWS, COLS = len(board), len(board[0])
-        directions = [(1, 0), (-1, 0), (0, 1), (0, -1)]
-        dsu = DSU(ROWS * COLS + 1)
+        DIRECTIONS = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+
+
+        def traverse(r, c):
+            if r < 0 or c < 0 or c >= COLS or r >= ROWS or board[r][c] != 'O':
+                return
+            
+            board[r][c] = '#'
+            for dr, dc in DIRECTIONS:
+                traverse(r + dr, c + dc)
+
+        for c in range(COLS): 
+            if board[0][c] == "O":
+                traverse(0, c)
+            if board[ROWS - 1][c] == "O":
+                traverse(ROWS - 1, c)
+        
 
         for r in range(ROWS):
-            for c in range(COLS):
-                if board[r][c] != "O":
-                    continue
-                if (r == 0 or c == 0 or
-                    r == (ROWS - 1) or c == (COLS - 1)
-                ):
-                    dsu.union(ROWS * COLS, r * COLS + c)
-                else:
-                    for dx, dy in directions:
-                        nr, nc = r + dx, c + dy
-                        if board[nr][nc] == "O":
-                            dsu.union(r * COLS + c, nr * COLS + nc)
-
+            if board[r][0] == "O":
+                traverse(r, 0)
+            if board[r][COLS - 1] == "O":
+                traverse(r, COLS - 1)
+        
         for r in range(ROWS):
             for c in range(COLS):
-                if not dsu.connected(ROWS * COLS, r * COLS + c):
+                if board[r][c] == "O":
                     board[r][c] = "X"
+                elif board[r][c] == "#":
+                    board[r][c] = "O"
+
+        
