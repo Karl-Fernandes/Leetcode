@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0696-count-binary-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0696-count-binary-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Karl-Fernandes/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
