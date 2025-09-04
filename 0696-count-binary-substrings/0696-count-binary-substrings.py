@@ -1,7 +1,7 @@
 class Solution:
     def countBinarySubstrings(self, s: str) -> int:
-        current = 1
         prev = 0
+        current = 1
         res = 0
 
         for i in range(1, len(s)):
@@ -9,8 +9,8 @@ class Solution:
                 current += 1
             else:
                 res += min(current, prev)
-                prev = current
+                prev =  current
                 current = 1
+
         res += min(current, prev)
-        
-        return res
+        return res        
