@@ -2,7 +2,6 @@ class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         ROWS, COLS = len(matrix), len(matrix[0])
 
-        # Step 1: check if first row or first col should be zeroed
         first_row_zero = any(matrix[0][c] == 0 for c in range(COLS))
         first_col_zero = any(matrix[r][0] == 0 for r in range(ROWS))
 
