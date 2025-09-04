@@ -3,20 +3,23 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        coordinates = set()
+        rows, cols = set(), set()
         ROWS, COLS = len(matrix), len(matrix[0])
 
         for r in range(ROWS):
             for c in range(COLS):
-                if matrix[r][c] ==  0:
-                    coordinates.add((r, c))
+                if matrix[r][c] == 0:
+                    rows.add(r)
+                    cols.add(c)
         
 
-        for row, col in coordinates:
+        for r in rows:
             for c in range(COLS):
-                matrix[row][c] = 0
+                matrix[r][c] = 0
+        
+        for c in cols:
             for r in range(ROWS):
-                matrix[r][col] = 0
+                matrix[r][c] = 0
         
 
 
