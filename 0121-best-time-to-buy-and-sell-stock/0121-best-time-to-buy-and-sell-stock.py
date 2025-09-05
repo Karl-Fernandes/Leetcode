@@ -13,7 +13,7 @@ class Solution:
                 profit = price - minimum
                 if profit > res:
                     res = profit
-        
+            
         return res
             
         
