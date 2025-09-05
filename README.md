@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 | [1755-defuse-the-bomb](https://github.com/Karl-Fernandes/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Karl-Fernandes/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Karl-Fernandes/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karl-Fernandes/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Karl-Fernandes/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Karl-Fernandes/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Counting
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Karl-Fernandes/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Union Find
