@@ -1,24 +1,25 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        if sum(nums) % 2:
+        total = sum(nums)
+        if total % 2:
             return False
-
+        
+        total //= 2
         dp = set()
         dp.add(0)
-        target = sum(nums) // 2
 
-        for i in range(len(nums)):
-            nextDp = set()
-            for t in dp:
-                if (t + nums[i]) == target:
+        for num in nums:
+            curr_dp = set()
+            for curr in dp:
+                if curr + num == total:
                     return True
-                if (t + nums[i]) < target:
-                    nextDp.add(t + nums[i])
-                nextDp.add(t)
-            dp = nextDp
+                if curr + num < total:
+                    curr_dp.add(curr + num)
+                curr_dp.add(curr)
+            dp = curr_dp
         
         return False
 
-
+        
 
         
