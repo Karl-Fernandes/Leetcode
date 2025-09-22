@@ -1,22 +1,22 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         res = []
-        
 
-        def dfs(visited):
-            if len(visited) == len(nums):
-                res.append(visited.copy())
+        def dfs(i, curr):
+            if i == len(nums):
+                res.append(curr.copy())
                 return
-
-            for i in range(len(nums)):
-                if nums[i] in visited:
+            
+            for num in nums:
+                if num in curr:
                     continue
-                    
-                visited.append(nums[i])
-                dfs(visited)
-                visited.pop()
                 
+                curr.append(num)
+                dfs(i + 1, curr)
+                curr.pop()
+        
+        dfs(0, [])
+        return res
 
-        dfs([])
-        return res            
+
         
