@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 | [1755-defuse-the-bomb](https://github.com/Karl-Fernandes/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Karl-Fernandes/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Karl-Fernandes/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Karl-Fernandes/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Binary Tree
 |  |
 | ------- |
@@ -656,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/0384-shuffle-an-array) |
+## Line Sweep
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
