@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Karl-Fernandes/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Karl-Fernandes/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Karl-Fernandes/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/0049-group-anagrams) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Karl-Fernandes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Karl-Fernandes/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Karl-Fernandes/Leetcode/tree/master/0118-pascals-triangle) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
