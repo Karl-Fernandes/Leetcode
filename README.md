@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 | [1755-defuse-the-bomb](https://github.com/Karl-Fernandes/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Karl-Fernandes/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Karl-Fernandes/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -635,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Karl-Fernandes/Leetcode/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Karl-Fernandes/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Karl-Fernandes/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
