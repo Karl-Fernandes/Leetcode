@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Karl-Fernandes/Leetcode/tree/master/0846-hand-of-straights) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Karl-Fernandes/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2664-maximize-greatness-of-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Karl-Fernandes/Leetcode/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Karl-Fernandes/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Karl-Fernandes/Leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Karl-Fernandes/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Karl-Fernandes/Leetcode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
