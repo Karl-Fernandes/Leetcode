@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Karl-Fernandes/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Karl-Fernandes/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1755-defuse-the-bomb](https://github.com/Karl-Fernandes/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Karl-Fernandes/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Karl-Fernandes/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Karl-Fernandes/Leetcode/tree/master/0695-max-area-of-island) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Karl-Fernandes/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph
 |  |
 | ------- |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Karl-Fernandes/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Karl-Fernandes/Leetcode/tree/master/0743-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/Karl-Fernandes/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Karl-Fernandes/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
@@ -703,4 +706,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Karl-Fernandes/Leetcode/tree/master/1851-minimum-interval-to-include-each-query) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Karl-Fernandes/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
