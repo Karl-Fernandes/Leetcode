@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Karl-Fernandes/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Karl-Fernandes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Karl-Fernandes/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Karl-Fernandes/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Karl-Fernandes/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Karl-Fernandes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/Karl-Fernandes/Leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Karl-Fernandes/Leetcode/tree/master/0743-network-delay-time) |
@@ -716,4 +718,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Karl-Fernandes/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Karl-Fernandes/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
