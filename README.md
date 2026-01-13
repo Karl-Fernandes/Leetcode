@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Karl-Fernandes/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Karl-Fernandes/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Karl-Fernandes/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Karl-Fernandes/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karl-Fernandes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/0268-missing-number) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Karl-Fernandes/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Karl-Fernandes/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Karl-Fernandes/Leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Karl-Fernandes/Leetcode/tree/master/0118-pascals-triangle) |
@@ -729,4 +731,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Karl-Fernandes/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Karl-Fernandes/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
