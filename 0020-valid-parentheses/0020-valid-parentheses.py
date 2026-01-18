@@ -1,15 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        valid_pairs = {']': '[', '}': '{', ')': '('}
         stack = []
-        closeToOpen = { ")" : "(", "]" : "[", "}" : "{" }
 
-        for c in s:
-            if c in closeToOpen:
-                if stack and stack[-1] == closeToOpen[c]:
-                    stack.pop()
-                else:
+        for char in s:
+            if char in valid_pairs:  
+                if not stack or stack.pop() != valid_pairs[char]:
                     return False
-            else:
-                stack.append(c)
-
-        return True if not stack else False
+            else:  
+                stack.append(char)
+        
+        return not stack
