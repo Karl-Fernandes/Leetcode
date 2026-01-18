@@ -2,10 +2,9 @@ class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         visited = {}
 
-        for i, val in enumerate(nums):
-            if (target - val) in visited:
-                return [visited[target - val], i]
+        for i in range(len(nums)):
+            if (target - nums[i]) in visited:
+                return [i, visited[target - nums[i]]]
             
-            visited[val] = i
-        
+            visited[nums[i]] = i
         
