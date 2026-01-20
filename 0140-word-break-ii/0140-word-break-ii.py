@@ -1,24 +1,35 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
         wordDict.sort()
-        res = []
+        memo = {}
 
-        def dfs(substring, curr):
-            if len(s) < len(wordDict[0]):
-                return
+        def dfs(substring):
+            if substring in memo:
+                return memo[substring]
             
             if len(substring) == 0:
-                res.append(curr)
-                return            
+                return [""]
+
+            if len(s) < len(wordDict[0]):
+                return
+        
             
+            local_res = []
+
             for word in wordDict:
                 if substring[:len(word)] == word:
-                    if not curr:
-                        dfs(substring[len(word):], word)
-                    else:
-                        dfs(substring[len(word):], curr + " " + word)
+                    suffixes = dfs(substring[len(word):])
+                    for suffix in suffixes:
+                        if suffix:
+                            local_res.append(word + " " + suffix)
+                        else:
+                            local_res.append(word)
+            
+            memo[substring] = local_res
+            return local_res
 
-        dfs(s, "")
-        return res
+                    
+
+        return dfs(s)
 
         
