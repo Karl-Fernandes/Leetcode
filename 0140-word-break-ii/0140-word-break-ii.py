@@ -1,6 +1,5 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> List[str]:
-        wordDict.sort()
         memo = {}
 
         def dfs(substring):
@@ -10,8 +9,6 @@ class Solution:
             if len(substring) == 0:
                 return [""]
 
-            if len(s) < len(wordDict[0]):
-                return
         
             
             local_res = []
