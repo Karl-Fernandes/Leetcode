@@ -14,27 +14,22 @@ class Solution(object):
         pointer = dummy
         carry = 0
 
-        while l1 and l2:
-            total = l1.val + l2.val + carry
-            pointer.next = ListNode(total % 10)
+        while l1 or l2:
+            x = l1.val if l1 else 0
+            y = l2.val if l2 else 0
+            total = carry + x + y
             carry = total // 10
-            l1, l2 = l1.next, l2.next
+
+            pointer.next = ListNode(total % 10) 
             pointer = pointer.next
 
-        while l1:
-            total = l1.val + carry
-            pointer.next = ListNode(total % 10)
-            carry = total // 10
-            l1, pointer = l1.next, pointer.next
-
-        while l2:
-            total = l2.val + carry
-            pointer.next = ListNode(total % 10)
-            carry = total // 10
-            l2, pointer = l2.next, pointer.next    
-
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+        
         if carry:
             pointer.next = ListNode(carry)
+
+        
 
         return dummy.next
 
