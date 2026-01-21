@@ -11,9 +11,10 @@ class Solution:
         last = node 
         
         while curr:
-            next_node = curr.next
 
             if curr.child:
+                next_node = curr.next
+
                 child_tail = self.dfs(curr.child)
 
                 curr.next = curr.child
@@ -25,7 +26,7 @@ class Solution:
                     
                 curr.child = None
                 last = child_tail
-                
+
             else:
                 last = curr
             
