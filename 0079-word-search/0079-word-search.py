@@ -1,6 +1,7 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         ROWS, COLS = len(board), len(board[0])
+        directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
         path = set()
 
         def dfs(r, c, i):
@@ -15,16 +16,14 @@ class Solution:
             ):
                 return False
             
-            path.add((r, c))
-            res = (
-                dfs(r - 1, c, i + 1) or
-                dfs(r + 1, c, i + 1) or
-                dfs(r, c - 1, i + 1) or 
-                dfs(r, c + 1, i + 1)
-            )
 
-            path.remove((r, c))
-            return res
+            path.add((r, c))
+            for dr, dc in directions:
+                if dfs(r + dr, c + dc, i + 1):
+                    return True
+
+            path.remove((r, c))  
+            return False
         
         for r in range(ROWS):
             for c in range(COLS):
@@ -33,6 +32,9 @@ class Solution:
         
         return False
 
+        
+
+            
 
 
                 
