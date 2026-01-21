@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Karl-Fernandes/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Karl-Fernandes/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
