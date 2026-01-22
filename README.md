@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Karl-Fernandes/Leetcode/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Karl-Fernandes/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1472-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1472-design-browser-history) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Karl-Fernandes/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Karl-Fernandes/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Karl-Fernandes/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1472-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
+| [1472-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 ## Hash Function
 |  |
@@ -466,12 +470,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Karl-Fernandes/Leetcode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Karl-Fernandes/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1472-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1472-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1472-design-browser-history) |
 | [1582-design-browser-history](https://github.com/Karl-Fernandes/Leetcode/tree/master/1582-design-browser-history) |
 ## Tree
 |  |
