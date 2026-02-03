@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Karl-Fernandes/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Karl-Fernandes/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Karl-Fernandes/Leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Karl-Fernandes/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Karl-Fernandes/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Karl-Fernandes/Leetcode/tree/master/0212-word-search-ii) |
+| [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Geometry
 |  |
 | ------- |
@@ -764,4 +767,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Karl-Fernandes/Leetcode/tree/master/0062-unique-paths) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
