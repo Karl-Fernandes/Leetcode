@@ -770,5 +770,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 | [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Karl-Fernandes/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
