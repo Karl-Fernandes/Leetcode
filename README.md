@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Karl-Fernandes/Leetcode/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Karl-Fernandes/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1873-longest-nice-substring](https://github.com/Karl-Fernandes/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0846-hand-of-straights](https://github.com/Karl-Fernandes/Leetcode/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Karl-Fernandes/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Karl-Fernandes/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Karl-Fernandes/Leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Karl-Fernandes/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Karl-Fernandes/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Karl-Fernandes/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -604,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Karl-Fernandes/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
