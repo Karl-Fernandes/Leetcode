@@ -2,7 +2,7 @@ class Solution:
     def uniquePathsWithObstacles(self, grid: List[List[int]]) -> int:
         M, N = len(grid), len(grid[0])
         dp = [0] * N
-        dp[-1] = 1
+        dp[N-1] = 1
 
         for r in reversed(range(M)):
             for c in reversed(range(N)):
