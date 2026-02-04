@@ -17,10 +17,10 @@ class Solution:
         res = []
         prev_col = float('-inf')
 
-        for col, row, val in nodes:
+        for col, row, node in nodes:
             if col != prev_col:
                 res.append([])
                 prev_col = col
-            res[-1].append(val)
-
+            res[-1].append(node)
+        
         return res
