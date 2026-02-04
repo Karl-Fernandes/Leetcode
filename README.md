@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Karl-Fernandes/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Karl-Fernandes/Leetcode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/Karl-Fernandes/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/Karl-Fernandes/Leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Karl-Fernandes/Leetcode/tree/master/0621-task-scheduler) |
+| [0752-open-the-lock](https://github.com/Karl-Fernandes/Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Karl-Fernandes/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Karl-Fernandes/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0752-open-the-lock](https://github.com/Karl-Fernandes/Leetcode/tree/master/0752-open-the-lock) |
 | [0763-partition-labels](https://github.com/Karl-Fernandes/Leetcode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Karl-Fernandes/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Karl-Fernandes/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Karl-Fernandes/Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Karl-Fernandes/Leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/Karl-Fernandes/Leetcode/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Karl-Fernandes/Leetcode/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Karl-Fernandes/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
