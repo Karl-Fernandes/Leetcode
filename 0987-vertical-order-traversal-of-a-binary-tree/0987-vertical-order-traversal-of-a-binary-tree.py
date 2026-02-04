@@ -16,9 +16,8 @@ class Solution:
 
         res = []
         prev_col = float('-inf')
-
         for col, row, node in nodes:
-            if col != prev_col:
+            if prev_col != col:
                 res.append([])
                 prev_col = col
             res[-1].append(node)
