@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Karl-Fernandes/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Karl-Fernandes/Leetcode/tree/master/0817-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Karl-Fernandes/Leetcode/tree/master/0846-hand-of-straights) |
+| [0994-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/Karl-Fernandes/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/1036-rotting-oranges) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Karl-Fernandes/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Karl-Fernandes/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Karl-Fernandes/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Karl-Fernandes/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Dynamic Programming
@@ -665,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Karl-Fernandes/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Karl-Fernandes/Leetcode/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/Karl-Fernandes/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0994-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Karl-Fernandes/Leetcode/tree/master/1036-rotting-oranges) |
 ## Rolling Hash
 |  |
