@@ -10,7 +10,7 @@ class Solution:
             res = []
             for i in range(4):
                 d = int(lock[i])
-                for nd in [(d + 1) % 10, (d - 1) % 10]:
+                for nd in [(d + 1) % 10, (d + 9) % 10]:
                     res.append(lock[:i] + str(nd) + lock[i+1:])
             return res
 
